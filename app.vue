@@ -2,7 +2,9 @@
   <div>
     <NuxtLayout>
       <header>
-        <ul class="flex gap-2">
+        <ul
+          class="flex justify-center gap-2 bg-green-700 text-white text-center"
+        >
           <li>
             <NuxtLink to="/">Home</NuxtLink>
           </li>
