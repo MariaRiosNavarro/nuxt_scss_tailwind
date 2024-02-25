@@ -2,6 +2,11 @@
 
 Freecodecamp Course of [Guillaume Duhan](https://github.com/guillaumeduhan) in [YouTube](https://www.youtube.com/watch?v=fTPCKnZZ2dk)
 
+todo:
+
+Emmet dont work here!? .In other Repos yes
+
+
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
 ## Setup
