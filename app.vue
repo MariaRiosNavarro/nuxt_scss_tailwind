@@ -1,5 +1,5 @@
 <template>
   <div>
-    <div>Hello World!</div>
+    <div class="text-3xl text-green-400">Hello World!</div>
   </div>
 </template>
