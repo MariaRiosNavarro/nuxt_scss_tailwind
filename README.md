@@ -1,6 +1,6 @@
 # Test repository for learning Nuxt (Scss + tailwind)
 
-Freecodecamp Course of [Guillaume Duhan] (https://github.com/guillaumeduhan) in [YouTube](https://www.youtube.com/watch?v=fTPCKnZZ2dk)
+Freecodecamp Course of [Guillaume Duhan](https://github.com/guillaumeduhan) in [YouTube](https://www.youtube.com/watch?v=fTPCKnZZ2dk)
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
